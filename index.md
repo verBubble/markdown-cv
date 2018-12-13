@@ -37,6 +37,14 @@ Southeast University
 - Relevant Coursework: Programming language and algorithm design(C++), data structure, computer structure and logic design.
 
 
+## Skills
+
+- Skills: Coding with C++ and python. A preliminary understanding of Pytorch. 
+
+- Languages: English (fluently), Chinese (native). 
+
+  2018.7 IELTS 6.5.
+
 ## Awards
 
 `2018.11`
