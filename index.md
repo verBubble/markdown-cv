@@ -4,8 +4,6 @@ title: ZhangXinyue's CV
 ---
 # ZhangXinyue
 
-**TEL：15695217921 | zhangxy99216@gmail.com** 
-
 ## Skills
 
 Coding with C++ and python. A preliminary understanding of Pytorch. 
@@ -59,3 +57,7 @@ We will code in C, and finish our embedded design using IAR.
 **Computer vision:** In this field, ideas are really cool, such as NLP, GAN and so on.
 
 **Brain nerve science:** I really want to know how people's brain work. Maybe one day, I will participant in research about complexity science.
+
+
+
+**+8615695217921 | zhangxy99216@gmail.com**
