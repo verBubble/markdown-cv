@@ -20,10 +20,6 @@ Languages: English (fluently), Chinese (native).
 
   2018.7 IELTS 6.5.
 
-## Currently
-
-Studying in Southeast University.
-
 ## Education
 
 **2017-2021(expected)**
@@ -54,6 +50,8 @@ Based on the PYNQ-Z2 board provided by organizing committee, we finished our pro
 \1. We trained a 16-layer neural network using Pytorch, and saved parameters. 
 
 \2. The number of layers is decreased to 4 for higher speed. Besides, we used im2col algorithm, and at the same time, compiled by Cython.
+
+https://github.com/VerBubbleabc/neural-style-on-chip
 
 **2018.10 - Current**
 
