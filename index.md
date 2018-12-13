@@ -12,51 +12,49 @@ title: ZhangXinyue's CV
 
 ## Objective
 
-- 2019 Engineering Practicum in Shanghai.
+2019 Engineering Practicum in Shanghai.
 
 ## Currently
 
 Studying in Southeast University.
 
-### Research interests
+## Research interests
 
-Algorithm: To Know how a difficult problem solved by excellent algorithm design attracts me a lot.
+**Algorithm:** To Know how a difficult problem solved by excellent algorithm design attracts me a lot.
 
-Computer vision: In this field, ideas are really cool, such as NLP, GAN and so on.
+**Computer vision:** In this field, ideas are really cool, such as NLP, GAN and so on.
 
-Brain nerve science: I really want to know how people's brain work. Maybe one day, I will participant in research about complexity science.
+**Brain nerve science:** I really want to know how people's brain work. Maybe one day, I will participant in research about complexity science.
 
 
 ## Education
 
-`2017-2021(expected)`
+**2017-2021(expected)**
 Southeast University
 
 - GPA: 3.66/4.8(top 30%)
 - Major: Electronic Science and Engineering
 - Relevant Coursework: Programming language and algorithm design(C++), data structure, computer structure and logic design.
 
-
 ## Skills
 
-- Skills: Coding with C++ and python. A preliminary understanding of Pytorch. 
+Skills: Coding with C++ and python. A preliminary understanding of Pytorch. 
 
-- Languages: English (fluently), Chinese (native). 
+Languages: English (fluently), Chinese (native). 
 
   2018.7 IELTS 6.5.
 
 ## Awards
 
-`2018.11`
+**2018.11**
  excellent award in 12th PLD Design Competition of Southeast University.
 
-`2018.09`
+**2018.09**
 excellent award in College students knowledge contest in Jiangsu Province.
 
 ## Project Experiences
 
 **2018.09 - 2018.11**, **The 12th PLD Design Competition of Southeast University, Team leader**
-
 
 Based on the PYNQ-Z2 board provided by organizing committee, we finished our project, *Real-time style transfer*.
 
@@ -70,7 +68,6 @@ Based on the PYNQ-Z2 board provided by organizing committee, we finished our pro
 
 **2018.10 - Current, Southeast University’s 13th smart car competition, Team member**
   
-  
   \1. Welding and assembling the car model.
 
   \2. On the both sides of the smart car, we installed sensors which is designed to receive electromagnetic signals.Using differences of the data, we will use PID algorithm, which is based on the calculus, to deal with this information, and compute the angel that car will turn.
@@ -79,13 +76,12 @@ Based on the PYNQ-Z2 board provided by organizing committee, we finished our pro
 
   \4. Then, we will adjust the parameters to achieve better result.
   
-  
-  **2018.11 - Current ( expected to end next year ), SRTP (Students’ research training project ), team leader,** **the glass of Real-time style transfer.**
+   **2018.11 - Current ( expected to end next year ), SRTP (Students’ research training project ), team leader,** **the glass of Real-time style transfer.**
    
    \1. Based on our PLD competition, we will continue to improve our project.
 
-  \2. We think that applying such a cool idea to glasses must be interesting.
+   \2. We think that applying such a cool idea to glasses must be interesting.
 
-  \3. Currently, our project is getting through initial review.
+   \3. Currently, our project is getting through initial review.
 
-  \4. We plan to accelerate the whole algorithm, improve the precision( cause in the earlier project, we reduced the precision to speed up), and achieve better results.
+   \4. We plan to accelerate the whole algorithm, improve the precision( cause in the earlier project, we reduced the precision to speed up), and achieve better results.
