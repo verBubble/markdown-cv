@@ -4,7 +4,7 @@ title: ZhangXinyue's CV
 ---
 # ZhangXinyue
 
-### TEL：15695217921 |  zhangxy99216@gmail.com
+###                                       TEL：15695217921|zhangxy99216@gmail.com
 
 ## Skills
 
