@@ -3,12 +3,11 @@ layout: cv
 title: ZhangXinyue's CV
 ---
 # ZhangXinyue
-tel:+8615695217921
-zhangxy99216@gmail.com
+
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="isaac@applesdofall.org">+8615695217921</a>
+| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">zhangxy99216@gmail.com</a>
 </div>
 
 ## Objective
