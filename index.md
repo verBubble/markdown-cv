@@ -12,9 +12,9 @@ title: ZhangXinyue's CV
 
 ## Skills
 
-Skills: Coding with C++ and python. A preliminary understanding of Pytorch. 
-        know some basic neural networks.
-        understand algorithms and classical data structure.
+Coding with C++ and python. A preliminary understanding of Pytorch. 
+know some basic neural networks.
+understand algorithms and classical data structure.
 
 Languages: English (fluently), Chinese (native). 
 
