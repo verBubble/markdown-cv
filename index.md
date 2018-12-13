@@ -1,91 +1,77 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: ZhangXinyue's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# ZhangXinyue
+tel:+8615695217921
+zhangxy99216@gmail.com
 
 <div id="webaddress">
 <a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
 | <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
 </div>
 
+## Objective
+
+- 2019 Engineering Practicum in Shanghai.
 
 ## Currently
 
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
+Studying in Southeast University.
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Algorithm: To Know how a difficult problem solved by excellent algorithm design attracts me a lot.
+
+Computer vision: In this field, ideas are really cool, such as NLP, GAN and so on.
+
+Brain nerve science: I really want to know how people's brain work. Maybe one day, I will participant in research about complexity science.
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2017-2021(expected)`
+Southeast University
 
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
+- GPA: 3.66/4.8(top 30%)
+- Major: Electronic Science and Engineering
+- Relevant Coursework: Programming language and algorithm design(C++), data structure, computer structure and logic design.
 
 
 ## Awards
 
-`2012`
-President, *Royal Society*, London, UK
+`2018.11`
+ excellent award in 12th PLD Design Competition of Southeast University.
 
-Associate, *French Academy of Science*, Paris, France
+`2018.09`
+excellent award in College students knowledge contest in Jiangsu Province.
 
+## Project Experiences
 
+**2018.09 - 2018.11**, **The 12th PLD Design Competition of Southeast University, Team leader**
+Based on the PYNQ-Z2 board provided by organizing committee, we finished our project, *Real-time style transfer*.
 
-## Publications
+\1.We trained a 16-layer neural network using Pytorch, and saved parameters. 
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+\2. Then we loaded parameters in the model, so that we can deal with a single image, recorded video and real-time video.
 
-### Journals
+\3. The number of layers is decreased to 4 for higher speed. Besides, we used im2col algorithm, and at the same time, compiled by cython.
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+\4. Due to time and insufficient hardware knowledge, we haven’t finished the acceleration on hardware. But I will try to do it.
 
-`1669`
-Lectiones opticæ.
+**2018.10 - Current, Southeast University’s 13th smart car competition, Team member**
+  \1. Welding and assembling the car model.
 
-etc. etc. etc.
+  \2. On the both sides of the smart car, we installed sensors which is designed to receive electromagnetic signals.Using differences of the data, we will use PID algorithm, which is based on the calculus, to deal with this information, and compute the angel that car will turn.
 
-### Patents
+  \3. We will code in C, and finish our embedded design using IAR.
 
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+  \4. Then, we will adjust the parameters to achieve better result.
+  **2018.11 - Current ( expected to end next year ), SRTP (Students’ research training project ), team leader,** **the glass of Real-time style transfer.**
+    \1. Based on our PLD competition, we will continue to improve our project.
 
+  \2. We think that applying such a cool idea to glasses must be interesting.
 
-## Occupation
+  \3. Currently, our project is getting through initial review.
 
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
-
-
+  \4. We plan to accelerate the whole algorithm, improve the precision( cause in the earlier project, we reduced the precision to speed up), and achieve better results.
