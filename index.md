@@ -58,6 +58,7 @@ We will code in C, and finish our embedded design using IAR.
 
 **Brain nerve science:** I really want to know how people's brain work. Maybe one day, I will participant in research about complexity science.
 
-## TEL and mailbox
+## TEL and Mailbox
 
-**+8615695217921 | zhangxy99216@gmail.com**
+**TEL:+8615695217921**
+**Mailbox:zhangxy99216@gmail.com**
