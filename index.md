@@ -4,7 +4,7 @@ title: ZhangXinyue's CV
 ---
 # ZhangXinyue
 
-###                                       TEL：15695217921|zhangxy99216@gmail.com
+**TEL：15695217921 | zhangxy99216@gmail.com** 
 
 ## Skills
 
@@ -30,7 +30,7 @@ Languages: English (fluently), Chinese (native).
 ## Awards
 
 **2018.11**
- Excellent award in 12th PLD Design Competition of Southeast University.
+Excellent award in 12th PLD Design Competition of Southeast University.
 
 **2018.09**
 Excellent award in College students knowledge contest in Jiangsu Province.
@@ -41,13 +41,13 @@ Excellent award in College students knowledge contest in Jiangsu Province.
 
 **Real-time style transfer based on PYNQ-Z2, Team leader**
 
-we implement the style transfer algorithm on pynq-z2 by implement im2col in Cython, the network is a 16 layer network trained by PyTorch.[Github](https://github.com/VerBubbleabc/neural-style-on-chip)
+We implement the style transfer algorithm on pynq-z2 by implement im2col in Cython, the network is a 16 layer network trained by PyTorch.[Github](https://github.com/VerBubbleabc/neural-style-on-chip)
 
 **2018.10 - Current**
 
 **Southeast University’s 13th smart car competition, Team member**
 
-we will use PID algorithm, which is based on the calculus, to compute the angle that car will turn.
+We will use PID algorithm, which is based on the calculus, to compute the angle that car will turn.
 
 We will code in C, and finish our embedded design using IAR.
   
