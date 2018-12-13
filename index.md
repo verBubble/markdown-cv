@@ -30,6 +30,7 @@ Studying in Southeast University.
 ## Education
 
 **2017-2021(expected)**
+
 Southeast University
 
 - GPA: 3.66/4.8(top 30%)
