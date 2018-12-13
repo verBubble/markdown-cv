@@ -47,25 +47,25 @@ Excellent award in College students knowledge contest in Jiangsu Province.
 
 Based on the PYNQ-Z2 board provided by organizing committee, we finished our project, *Real-time style transfer*.
 
-\1. We trained a 16-layer neural network using Pytorch, and saved parameters. 
+1. We trained a 16-layer neural network using Pytorch, and saved parameters. 
 
-\2. The number of layers is decreased to 4 for higher speed. Besides, we used im2col algorithm, and at the same time, compiled by Cython.[github](https://github.com/VerBubbleabc/neural-style-on-chip)
+2. The number of layers is decreased to 4 for higher speed. Besides, we used im2col algorithm, and at the same time, compiled by Cython.[github](https://github.com/VerBubbleabc/neural-style-on-chip)
 
 **2018.10 - Current**
 
 **Southeast University’s 13th smart car competition, Team member**
 
-  \1. we will use PID algorithm, which is based on the calculus, to compute the angel that car will turn.
+  1. we will use PID algorithm, which is based on the calculus, to compute the angel that car will turn.
 
-  \2. We will code in C, and finish our embedded design using IAR.
+  2. We will code in C, and finish our embedded design using IAR.
   
    **2018.11 - Current**
    
    **SRTP (Students’ research training project) team leader, the glasses of Real-time style transfer.**
    
-   \1. Currently, our project is getting through initial review.
+   1. Currently, our project is getting through initial review.
 
-   \2. We plan to accelerate the whole algorithm, improve the precision( cause in the earlier project, we reduced the precision to speed up), and achieve better results.
+   2. We plan to accelerate the whole algorithm, improve the precision( cause in the earlier project, we reduced the precision to speed up), and achieve better results.
    
 ## Research interests
 
