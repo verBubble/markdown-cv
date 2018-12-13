@@ -54,7 +54,7 @@ We will code in C, and finish our embedded design using IAR.
 
 **Algorithm:** To Know how a difficult problem solved by excellent algorithm design attracts me a lot.
 
-**Computer vision:** In this field, ideas are really cool, such as NLP, GAN and so on.
+**Computer vision:** In this field, ideas are really cool.
 
 **Brain nerve science:** I really want to know how people's brain work. Maybe one day, I will participant in research about complexity science.
 
