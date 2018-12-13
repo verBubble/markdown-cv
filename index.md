@@ -39,7 +39,7 @@ Excellent award in College students knowledge contest in Jiangsu Province.
 
 **Real-time style transfer based on PYNQ-Z2, Team leader**
 
-We implement the style transfer algorithm on pynq-z2 by implement im2col in Cython, the network is a 16 layer network trained by PyTorch.[Github](https://github.com/VerBubbleabc/neural-style-on-chip)
+We implement the style transfer algorithm on PYNQ-Z2 by implement im2col in Cython, the network is a 16 layer network trained by PyTorch.[Github](https://github.com/VerBubbleabc/neural-style-on-chip)
 
 **2018.10 - Current**
 
@@ -57,5 +57,7 @@ We will code in C, and finish our embedded design using IAR.
 **Computer vision:** In this field, ideas are really cool, such as NLP, GAN and so on.
 
 **Brain nerve science:** I really want to know how people's brain work. Maybe one day, I will participant in research about complexity science.
+
+## TEL and mailbox
 
 **+8615695217921 | zhangxy99216@gmail.com**
