@@ -48,6 +48,8 @@ excellent award in College students knowledge contest in Jiangsu Province.
 ## Project Experiences
 
 **2018.09 - 2018.11**, **The 12th PLD Design Competition of Southeast University, Team leader**
+
+
 Based on the PYNQ-Z2 board provided by organizing committee, we finished our project, *Real-time style transfer*.
 
 \1.We trained a 16-layer neural network using Pytorch, and saved parameters. 
@@ -59,6 +61,8 @@ Based on the PYNQ-Z2 board provided by organizing committee, we finished our pro
 \4. Due to time and insufficient hardware knowledge, we haven’t finished the acceleration on hardware. But I will try to do it.
 
 **2018.10 - Current, Southeast University’s 13th smart car competition, Team member**
+  
+  
   \1. Welding and assembling the car model.
 
   \2. On the both sides of the smart car, we installed sensors which is designed to receive electromagnetic signals.Using differences of the data, we will use PID algorithm, which is based on the calculus, to deal with this information, and compute the angel that car will turn.
@@ -66,8 +70,11 @@ Based on the PYNQ-Z2 board provided by organizing committee, we finished our pro
   \3. We will code in C, and finish our embedded design using IAR.
 
   \4. Then, we will adjust the parameters to achieve better result.
+  
+  
   **2018.11 - Current ( expected to end next year ), SRTP (Students’ research training project ), team leader,** **the glass of Real-time style transfer.**
-    \1. Based on our PLD competition, we will continue to improve our project.
+   
+   \1. Based on our PLD competition, we will continue to improve our project.
 
   \2. We think that applying such a cool idea to glasses must be interesting.
 
