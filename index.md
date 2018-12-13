@@ -41,7 +41,7 @@ Excellent award in College students knowledge contest in Jiangsu Province.
 
 **Real-time style transfer based on PYNQ-Z2, Team leader**
 
-we implement the style transfer algorithm on pynq-z2 by implement im2col in Cython, the network is a 16 layer network trained by PyTorch[Github](https://github.com/VerBubbleabc/neural-style-on-chip)
+we implement the style transfer algorithm on pynq-z2 by implement im2col in Cython, the network is a 16 layer network trained by PyTorch.[Github](https://github.com/VerBubbleabc/neural-style-on-chip)
 
 **2018.10 - Current**
 
