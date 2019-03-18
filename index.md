@@ -1,14 +1,14 @@
 ---
 layout: cv
-title: ZhangXinyue's CV
+title: XinyueZhang's CV
 ---
 # ZhangXinyue
 
 ## Skills
 
-Coding with C++ and python. A preliminary understanding of Pytorch. 
-know some basic neural networks.
-understand algorithms and classical data structure.
+Coding with C++ and python. 
+Training Neural Networks with PyTorch.
+Understanding algorithms and classical data structure.
 
 Languages: English (fluently), Chinese (native). 
 
@@ -37,9 +37,16 @@ Excellent award in College students knowledge contest in Jiangsu Province.
 
 **2018.09 - 2018.11**
 
-**Real-time style transfer based on PYNQ-Z2, Team leader**
+**Real-time Style Transfer based on PYNQ-Z2, Team leader**
 
 We implement the style transfer algorithm on PYNQ-Z2 by implement im2col in Cython, the network is a 16 layer network trained by PyTorch.[Github](https://github.com/VerBubbleabc/neural-style-on-chip)
+
+**2018.11 - 2019.11**
+
+**Real-time Style Transfer Glasses and gui interface, Team leader**
+
+We train neural-style transfer network and CycleGAN to do image-transferring. The interface is based on Guizero and PyQt5.[Github]
+(https://github.com/verBubble/Real-Time-Style-Transfer-in-QT)
 
 **2018.10 - Current**
 
@@ -56,7 +63,7 @@ We will code in C, and finish our embedded design using IAR.
 
 **Computer vision:** In this field, ideas are really cool.
 
-**Brain nerve science:** I really want to know how people's brain work. Maybe one day, I will participant in research about complexity science.
+**Computer Graphics:** I do it just for fun:)
 
 ## TEL and Mailbox
 
